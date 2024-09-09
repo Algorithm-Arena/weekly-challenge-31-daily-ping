@@ -4,6 +4,18 @@
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/82def6cf-8e30-4345-b85b-725cb14e8eda">
 
+### Winners:
+
+* The winner for $75 is @Krayorn! The way you insert yourself in the workflow to get people to fill in is really important, having it be a Chrome Extension is very smart! https://github.com/Algorithm-Arena/weekly-challenge-31-daily-ping/issues/2
+
+https://github.com/user-attachments/assets/b650ca9b-f99f-417a-be82-9265468f6e37
+
+* In second place for $50 is @BenjaminAster! This implementation is straightforward and lets you fill in all the details of your day quick and easy. https://github.com/Algorithm-Arena/weekly-challenge-31-daily-ping/issues/1
+
+https://github.com/user-attachments/assets/271352c6-0ad3-4d10-94b7-3b9931b416e2
+
+
+
 ### Prizes:
 * Winner: $75
 * 2nd: $50
